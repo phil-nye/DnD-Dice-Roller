@@ -1,4 +1,4 @@
-DnD-Dice-Roller
+DnD-Dice-Roller (Compiled w/ Java 8)
 ===============
 
 Virtual Dice Roller for Tabletop RPGs
